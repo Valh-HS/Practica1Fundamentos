@@ -1,0 +1,4 @@
+nombre :
+edad:
+juegos actuales:
+juegos faoritos:
